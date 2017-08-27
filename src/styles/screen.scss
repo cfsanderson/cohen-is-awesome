@@ -10,4 +10,10 @@ html {
 body {
   margin: 0;
   font: $base-text-size / 1 $base-font-family;
+  background-color: rgb(11, 6, 255);
+}
+
+h1 {
+  font-size: 5em;
+  color: hsla(0, 100%, 100%, 1)
 }
